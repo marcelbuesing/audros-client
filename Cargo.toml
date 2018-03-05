@@ -1,0 +1,10 @@
+[package]
+name = "audros-client"
+version = "0.1.0"
+authors = ["marcelbuesing <marcel.buesing@daimler.com>"]
+build = "build.rs"
+
+[build-dependencies]
+protoc-grpcio = "0.1.0"
+
+[dependencies]

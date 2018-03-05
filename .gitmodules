@@ -1,0 +1,3 @@
+[submodule "audros-schema"]
+	path = audros-schema
+	url = git@github.com:marcelbuesing/audros-schema.git
